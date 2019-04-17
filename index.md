@@ -72,6 +72,15 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
+We will follow a lesson plan called "R for Reproducible Scientific Analysis."
+There will not be time to cover all of the material, but we will cover the
+essentials of importing and exploring a dataset and generating some plots.  If
+you are attending the workshop and want to provide input on what topics are
+covered, please email lvclark@illinois.edu before May 3.
+
+English: https://swcarpentry.github.io/r-novice-gapminder/
+Español: https://swcarpentry.github.io/r-novice-gapminder-es/
+
 {% comment %}
 AUDIENCE
 
