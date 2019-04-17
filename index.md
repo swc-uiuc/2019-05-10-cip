@@ -78,8 +78,9 @@ essentials of importing and exploring a dataset and generating some plots.  If
 you are attending the workshop and want to provide input on what topics are
 covered, please email lvclark@illinois.edu before May 3.
 
-English: https://swcarpentry.github.io/r-novice-gapminder/
-Español: https://swcarpentry.github.io/r-novice-gapminder-es/
+English: <https://swcarpentry.github.io/r-novice-gapminder/>
+
+Español: <https://swcarpentry.github.io/r-novice-gapminder-es/>
 
 {% comment %}
 AUDIENCE
